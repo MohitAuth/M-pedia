@@ -16,7 +16,7 @@
           }
         });
         var url1 =
-          "https://www.googleapis.com/youtube/v3/search/?part=snippet&key=AIzaSyD5cZJPM4m1PMosDUyp3M8UOKf1T0OVGG4&q=" +
+          "https://www.googleapis.com/youtube/v3/search/?part=snippet&key=***KEY***=" +
           searchTerm +
           "&maxResults=4";
         outputYoutube.innerHTML =
